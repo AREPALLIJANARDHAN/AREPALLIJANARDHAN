@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AREPALLI JANARDHAN
-- 👀 I’m interested in ...   building projects using java,Springboot
+- 👀 I’m interested in ...   building projects using java,OOPS,Sql,Springboot
 - 🌱 I’m currently learning  ...  Springboot
 - 📫 How to reach me ...ganeshdigital006@gmail.com
 
